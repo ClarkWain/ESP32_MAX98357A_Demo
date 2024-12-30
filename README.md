@@ -44,7 +44,7 @@ ESP32_MAX98357A_Demo/
 1. **设置 ESP-IDF 环境**：确保已正确安装 ESP-IDF 并配置环境变量。
 2. **克隆项目代码**：
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/ClarkWain/ESP32_MAX98357A_Demo
    cd ESP32_MAX98357A_Demo
    ```
 3. **配置项目**：
