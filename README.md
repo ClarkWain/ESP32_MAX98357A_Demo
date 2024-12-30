@@ -31,6 +31,8 @@ ESP32_MAX98357A_Demo/
 
 将 ESP32 与 MAX98357A 连接如下：
 
+![这是一个硬件连线图](img.jpg)
+
 - **I2S0_BCLK** (GPIO 19) -> **BCLK**
 - **I2S0_WS** (GPIO 20) -> **WS**
 - **I2S0_DO** (GPIO 18) -> **DIN**
